@@ -97,11 +97,10 @@ author:
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "Data Analyst Portfolio"
   location         : "Eastbourne, UK"
-  email            : "barker.dill98@gmail.com"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-      url: mailto:barker.dill98@gmail.com
+      url: "mailto:barker.dill98@gmail.com"
     - label: "Website"
       icon: "fas fa-fw fa-link"
       # url: "https://your-website.com"
@@ -117,8 +116,8 @@ author:
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
       # url: "https://instagram.com/"
-    - label: "Linkedin"
-      icon: "fab fa-fw fa-Linkedin"
+    - label: "LinkedIn"
+      icon: "fab fa-fw fa-LinkedIn"
       url: "https://www.linkedin.com/in/dillon-barker-7b4585151/"
 # Site Footer
 footer:
