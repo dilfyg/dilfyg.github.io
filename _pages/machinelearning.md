@@ -7,7 +7,7 @@ header:
   image: "/images/header3.jpg"
 ---
 
-{% include absolute_url %}
+{% include bath_path %}
 {% include group-by-array collection=site.posts field="tags" %}
 
 {% for tag in group_names %}
