@@ -99,9 +99,9 @@ author:
   location         : "Eastbourne, UK"
 
   links:
-   -   label: "barker.dill98@gmail.com"
-       icon: "fas fa-fw fa-envelope-square"
-       url: "mailto:barker.dill98@gmail.com"
+#     - label: "barker.dill98@gmail.com"
+#       icon: "fas fa-fw fa-envelope-square"
+#       url: "mailto:barker.dill98@gmail.com"
 #    - label: "Website"
 #      icon: "fas fa-fw fa-link"
 #      # url: "https://your-website.com"
