@@ -93,15 +93,15 @@ analytics:
 
 # Site Author
 author:
-  name             : "Dillon"
+  name             : "Dillon Barker"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "Data Analyst Portfolio"
   location         : "Eastbourne, UK"
-  email            : "barker.dill98@gmail.com"
+
   links:
-#    - label: "barker.dill98@gmail.com"
-#      icon: "fas fa-fw fa-envelope-square"
-#      url: "barker.dill98@gmail.com"
+   - label: "barker.dill98@gmail.com"
+       icon: "fas fa-fw fa-envelope-square"
+       url: "mailto:barker.dill98@gmail.com"
 #    - label: "Website"
 #      icon: "fas fa-fw fa-link"
 #      # url: "https://your-website.com"
