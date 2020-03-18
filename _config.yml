@@ -98,7 +98,7 @@ author:
   bio              : "Data Analyst Portfolio"
   location         : "Eastbourne, UK"
   links:
-    - label: "Email"
+    - label: "mailto:barker.dill98@gmail.com"
       icon: "fas fa-fw fa-envelope-square"
       url: "mailto:barker.dill98@gmail.com"
     - label: "Website"
@@ -117,7 +117,7 @@ author:
       icon: "fab fa-fw fa-instagram"
       # url: "https://instagram.com/"
     - label: "LinkedIn"
-      icon: "fab fa-fw fa-LinkedIn"
+      icon: "fab fa-fw fa-linkedin"
       url: "https://www.linkedin.com/in/dillon-barker-7b4585151/"
 # Site Footer
 footer:
