@@ -6,7 +6,15 @@ tags: [R]
 #  image: ""
 excerpt: "R Studio, Enzyme Kinetics Graphs"
 ---
+# R COOKBOOK
+Showcasing some automation I did whilst at University studying Biochemistry.
 
+## Introduction
+Whilst at University I found that I was constantly having to remake and manipulate code in order to plot different graphs depending on the data that I had. This was time consuming and I wanted a way around this.
+
+So I made a number of R scripts that I could run on a given dataset that I obtained in the lab, these would calculate the values I needed and plot a graph.
+
+## R Code
 Michaelis Menten plot code:
 ```r
 ### draw a Michaelis Menten plot  and determine Vmax and Km ###
