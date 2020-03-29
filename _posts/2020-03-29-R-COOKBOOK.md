@@ -6,7 +6,6 @@ tags: [R]
 #  image: ""
 excerpt: "R Studio, Enzyme Kinetics Graphs"
 ---
-# R COOKBOOK
 Showcasing some automation I did whilst at University studying Biochemistry.
 
 ## Introduction
