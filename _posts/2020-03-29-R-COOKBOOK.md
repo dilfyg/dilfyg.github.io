@@ -1,6 +1,6 @@
 ---
 title: "R COOKBOOK"
-date: 2019-03-29
+date: 2020-03-29
 tags: [R]
 #header:
 #  image: ""
