@@ -97,7 +97,8 @@ author:
   avatar           : "/images/headshot.jpg"
   bio              : "Data Analyst Portfolio"
   location         : "Eastbourne, UK"
-  email             : "barker.dill98@gmail.com"
+  email            : "barker.dill98@gmail.com"
+  github           : "https://github.com/dilfyg"
   links:
 #     - label: "barker.dill98@gmail.com"
 #       icon: "fas fa-fw fa-envelope-square"
