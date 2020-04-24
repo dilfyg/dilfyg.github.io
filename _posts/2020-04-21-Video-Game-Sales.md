@@ -18,6 +18,9 @@ I chose the dataset of video games as I thought I could get good insight and ask
 In this I used what I normally use to help me organise and plan out projects, Trello. Which I will put as a link so that you can see how I worked through the data and my thought process behind what I did.
 
 # Set up
-The first problem I encountered was that some of the names were continuing on into the next column due to them having a comma inside the name. This was easy to fix as I just made sure that there was a text qualifier present and surrounded the names of the titles in speech marks. Now the data was in the correct format and ready for analysis.
+The first problem I encountered was that some of the names were continuing on into the next column due to them having a comma inside the name. This was easy to fix as I just made sure that there was a text qualifier present and surrounded the names of the titles in speech marks. 
+
+After doing this I made sure that the various columns were formatted correctly and would work well in later analysis such as ensuring the Year column was formatted to be an integer value.
+
 
 
