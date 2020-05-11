@@ -61,4 +61,12 @@ END;
 
 This takes the top 5 contenders for each main variable, finding the top publishers, genres and game platforms.
 
+# Analyses
+Using Tableau Public I visualised the data in a way to answer the questions I initially came up with when considering data of this sort.
+I am going to link to a number of visualisations I made that are published on my Tableau account.
 
+[Sales-Over-Time] (https://public.tableau.com/profile/dillon6327#!/vizhome/vgsales_15891212354570/Dashboard1)
+
+[Top-5-Platforms] (https://public.tableau.com/profile/dillon6327#!/vizhome/vgsales_15891212354570/Dashboard2)
+
+[Top-5-Genres] (https://public.tableau.com/profile/dillon6327#!/vizhome/vgsales_15891212354570/Dashboard3)
