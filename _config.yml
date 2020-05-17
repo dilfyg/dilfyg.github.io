@@ -18,9 +18,9 @@ minimal_mistakes_skin    : "dark" # "air", "aqua", "contrast", "dark", "dirt", "
 locale                   : "en-US"
 title                    : "Dillon Barker"
 title_separator          : "-"
-subtitle                 : Data Portfolio
+subtitle                 : Portfolio
 name                     : "Dillon Barker"
-description              : "A portfolio to showcase my data projects."
+description              : "A portfolio to showcase my projects."
 url                      : https://dilfyg.github.io/
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : "https://github.com/dilfyg/"
@@ -95,7 +95,7 @@ analytics:
 author:
   name             : "Dillon Barker"
   avatar           : "/images/headshot.jpg"
-  bio              : "Data Analyst Portfolio"
+  bio              : "Portfolio"
   location         : "Eastbourne, UK"
   email            : "barker.dill98@gmail.com"
   links:
