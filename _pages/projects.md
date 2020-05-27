@@ -3,7 +3,7 @@ layout: archive
 permalink: /projects/
 title: "Projects"
 excerpt: "Here I have my projects I have worked on collated by tags."
-author profile: true
+author profile: false
 header:
   overlay_image: "/images/header3.jpg"
 ---
