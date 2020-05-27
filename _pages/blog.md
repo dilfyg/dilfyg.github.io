@@ -2,7 +2,8 @@
 title: "Blog"
 permalink: /blog/
 header: 
-  image: "/images/makers_image.png"
+  overlayimage: "/images/makers_image.png"
+  overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
 ---
 
 This is a test to see if this blog section could work.
