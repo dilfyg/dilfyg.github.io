@@ -1,6 +1,7 @@
 ---
 title: "Blog"
 permalink: /blog/
+header:
   overlay_color: #333
 #header: 
 #  overlay_image: "/images/makers_image.png"
