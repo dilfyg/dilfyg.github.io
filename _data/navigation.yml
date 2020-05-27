@@ -6,22 +6,7 @@ main:
     url: /projects/
   - title: "Blog"
     url: /blog/
-# cheatsheets links
-cheatsheets:
- - title: Applications
-   children:
-     - title: "Chocolatey"
-       url: /cheatsheets/chocolatey/
-     - title: "Packer"
-       url: /cheatsheets/packer/
-     - title: "Vagrant"
-       url: /cheatsheets/vagrant/
-     - title: "VirtualBox"
-       url: /cheatsheets/virtualbox/
- # - title: Title2
- #   children:
- #     - title: "Configuration"
- #       url: /cheatsheets/configuration/
+
 
 
 
