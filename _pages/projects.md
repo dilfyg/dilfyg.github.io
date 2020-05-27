@@ -4,7 +4,7 @@ permalink: /projects/
 title: "Project Posts Collated by Tags"
 author profile: true
 header:
-  image: "/images/header3.jpg"
+  overlay_image: "/images/header3.jpg"
 ---
 
 {% include base_path %}
