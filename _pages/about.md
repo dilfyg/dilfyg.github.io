@@ -2,7 +2,7 @@
 title: "About"
 permalink: /about/
 header:
-  image: "/images/header2.jpg"
+  overlay_image: "/images/header2.jpg"
 ---
 
 I'm a graduate in Biochemistry self teaching a number of coding languages to widen my knowledge of programming.
