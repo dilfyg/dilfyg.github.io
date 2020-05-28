@@ -1,6 +1,6 @@
 ---
 title: "Home"
-permalink: //
+permalink: /
 excerpt: "Homepage"
 header:
   overlay_color: "#333"
