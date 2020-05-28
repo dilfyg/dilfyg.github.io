@@ -25,7 +25,7 @@ url                      : https://dilfyg.github.io/
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : "dilfyg/dilfyg.github.io"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
-logo                     : # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
+logo                     : https://www.codewars.com/users/dilfyg/badges/micro
 masthead_title           : "Dillon Barker"
 # breadcrumbs            : false # true, false (default)
 words_per_minute         : 200
