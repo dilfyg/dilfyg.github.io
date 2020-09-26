@@ -26,16 +26,16 @@ Hosted on Netlify, play [here](https://maelstrom-rpg.netlify.app/)!
 ## Screenshots
 
 ### Welcome to the Maelstrom
-![image]("https://github.com/dwram/Maelstrom/blob/master/public/screenshots/Title page.png")
+![image](../images/maelstrom/titlepage.png)
 
 ### Fight hoards of enemies from the sci-fi and fantasy worlds! 
-![image]("https://github.com/dwram/Maelstrom/blob/master/public/screenshots/Fight 1.png")
+![image](../images/maelstrom/fight1.png)
 
 ### Shop for upgrades and health potions
-![image](https://github.com/dwram/Maelstrom/blob/master/public/screenshots/Shop.png)
+![image](../images/maelstrom/shop.png)
 
 ### Experience true role playing and level up your character
-![image]("https://github.com/dwram/Maelstrom/blob/master/public/screenshots/Character screen.png")
+![image](../images/maelstrom/characterscreen.png)
 
 ## To run and test locally
 
