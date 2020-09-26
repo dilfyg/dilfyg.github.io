@@ -39,7 +39,7 @@ Hosted on Netlify, play [here](https://maelstrom-rpg.netlify.app/)!
 
 ## To run and test locally
 
-1. clone [this](https://github.com/dwram/Maelstrom) repo
+1. clone [this](https://github.com/DillonBarker/Maelstrom) repo
 2. `npm install`, this will install the dependencies needed.
 3. `npm start`, Runs the app in the development mode. Open [this](http://localhost:3000) to view it in the browser.
 4. `npm test`, will run the tests
