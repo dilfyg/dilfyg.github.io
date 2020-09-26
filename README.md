@@ -1,4 +1,4 @@
-# My Portfolio
+# Portfolio
 
 This is the website I made as a way of showing the projects I work on and also a bloggin functionality as well!
 
