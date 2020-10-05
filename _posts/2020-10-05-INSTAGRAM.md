@@ -25,6 +25,16 @@ Instagram Challenge
   * write comments on the pictures
   * have appropriate styling (like instagram does)
 
+## The site
+### Signing up
+![sign up](../images/instagram/sign_up.png)
+
+### Posts page
+![posts](../images/instagram/posts.png)
+
+### Individual post page, with comments
+![post](../images/instagram/post.png)
+
 ## User stories
 ```
 A user can sign in
