@@ -7,9 +7,6 @@ tags: [Ruby on Rails]
 excerpt: "A clone made to be similar to Instagram, you can create account and upload pictures with captions. Comment on these pictures and interact with each other."
 ---
 
-Instagram Challenge
-===================
-
 ## How to use
 * Firstly clone this repo
 * Then run `bundle`
