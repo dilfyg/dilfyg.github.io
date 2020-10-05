@@ -1,7 +1,7 @@
 ---
 title: "Blog"
 permalink: /blog/
-excerpt: "This is a page where I will be blogging my journey through the Makers process."
+excerpt: "I have blog posts here from my time at Makers and then I will now be posting blogs linking to any personal projects I do whilst on the job hunt!"
 header:
   overlay_color: "#333"
   actions:
